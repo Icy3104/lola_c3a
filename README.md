@@ -4,25 +4,19 @@ Overall Description
 1. Product Perspective
 DEHV is a standalone mobile application that interacts with backend services to provide dynamic content to users. It is built upon the React Native framework and utilizes Expo for streamlined development and testing.
 
-2 User Classes and Characteristics
-General Users: Individuals who download and use the application for its intended purpose.
-
-Characteristics: Varying levels of technical proficiency, require intuitive UI/UX.
-
-Administrators: Personnel responsible for managing backend content and user data.
-
-Characteristics: Familiar with administrative interfaces and data management.
+2. User Classes and Characteristics
+   General Users: Individuals who download and use the application for its intended purpose.
+   Characteristics: Varying levels of technical proficiency, require intuitive UI/UX.
+   Administrators: Personnel responsible for managing backend content and user data.
+   Characteristics: Familiar with administrative interfaces and data management.
 
 3. Operating Environment
 Mobile Platforms: iOS 12.0 or later, Android 8.0 or later.
-
 Development Environment: React Native, Expo, Node.js.
 
 4. Design and Implementation Constraints
 Must comply with platform-specific design guidelines (Apple Human Interface Guidelines, Material Design).
-
 Ensure responsiveness across various device screen sizes.
-
 Adhere to data privacy regulations (e.g., GDPR, if applicable).
 
 ## A React Native App
